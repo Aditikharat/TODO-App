@@ -1,0 +1,14 @@
+.main
+        {
+          border:thin black solid;
+          margin:20px;
+          padding:20px;
+          text-align: center;
+          height: 200px;
+          width: 400px;
+          background-color: gray;
+          position: relative;
+          left: 500px;
+          top: 100px;
+          
+        }
